@@ -1,0 +1,67 @@
+body{
+    font-family: 'Manrope', sans-serif;
+}
+.container {
+margin: 0 auto;
+width: 1150px;
+}
+.h1-one {
+font-weight: 400;
+font-size: 60px;
+line-height: 60px;
+}
+.box {
+    padding-top: 70px;
+}
+.box h1 {
+    width: 1000px;
+    font-style: normal;
+    font-size: 60px;
+    padding-bottom: 30px;
+}
+.img {
+    width: 1150px;
+    height: 500px;
+    background: url(../resources/img-one.png);
+}
+.img h2 {
+    width: 430px;
+    height: 81px;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: -0.03em;
+    padding-top: 379px;
+    padding-left: 40px;
+}
+.about h2 {
+    padding-top: 150px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    opacity: 0.5;
+    color: #121212;
+}
+.about h3 {
+    width: 1100px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 61px;
+    color: #121212;
+    padding-bottom: 30px;
+}
+.buttonshow {
+    width: 255px;
+    height: 67px;
+    background: #AD1818;
+    border-radius: 5px;
+    font-style: normal;
+    color: #FFFFFF;
+    font-size: 20px;
+    margin-bottom: 150px;
+    cursor: pointer;
+}
